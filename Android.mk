@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2012-2017 ParanoidAndroid Project
+# Copyright (C) 2019 The OneOS Project
 #
 # Licensed under the GNU GPLv2 license
 #
@@ -28,7 +28,7 @@ LOCAL_AAPT_FLAGS := --auto-add-overlay \
     --extra-packages android.support.v7.appcompat \
     --extra-packages android.support.design
 
-LOCAL_PACKAGE_NAME := ParanoidPapers
+LOCAL_PACKAGE_NAME := OnePapers
 
 LOCAL_USE_AAPT2 := true
 

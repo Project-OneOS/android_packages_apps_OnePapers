@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012-2017 ParanoidAndroid Project
+<!-- Copyright (C) 2019 The OneOS Project
 
      Licensed under the GNU GPLv2 license
 
@@ -8,7 +8,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.paranoid.ParanoidPapers"
+    package="com.teamone.OnePapers"
     android:versionCode="23"
     android:versionName="2.3" >
 
